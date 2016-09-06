@@ -4,16 +4,17 @@ This is a repository for the syllabus and materials for a course taught at Johns
 
 ## Instructors
 
-Lee Drutman, Ph.D. @
+Lee Drutman, Ph.D. [@ldrutman](http://github.com/ldrutman)
 
-Georgia Bullen, @georgiamoon
+Georgia Bullen, [@georgiamoon](http://github.com/georgiamoon)
 
 ## Course Materias
 
 You will be expected to purchase:
-1.  The Functional Art, by Alberto Cairo.
-2.  The Craft of Political Research, by W. Phillips Shively (earlier editions are fine)
-3.  1-2 month Adobe Illustrator license. The software will not be required for assignments until late October. Adobe offers single month subscriptions, which will be reimbursed by JHU.
+
+1. The Functional Art, by Alberto Cairo.
+2. The Craft of Political Research, by W. Phillips Shively (earlier editions are fine)
+3. 1-2 month Adobe Illustrator license. The software will not be required for assignments until late October. Adobe offers single month subscriptions, which will be reimbursed by JHU.
 
 ## Additional Resources
 
@@ -24,12 +25,13 @@ In addition, there are a number of free online readings and resources that you m
 ## Grading
 
 Your grade will be based on:
-1.  Class participation (10%) 
-2.  Visualization critique presentation (10%)
-3.  Visualization brainstorm paper (10%)
-4.  Homework assignments (20%)
-5.  Midterm report (15%)
-6.  Final presentation and report (35%)
+
+1. Class participation (10%) 
+2. Visualization critique presentation (10%)
+3. Visualization brainstorm paper (10%)
+4. Homework assignments (20%)
+5. Midterm report (15%)
+6. Final presentation and report (35%)
 
 ### Visualization Critique Presentations
 
@@ -55,7 +57,7 @@ You will be assigned weekly problem sets, on weeks where there is not another gr
 
 For these two assignments (which make up 50% of your course grade), you will be asked to produce a series of charts that collectively tell a story, and write a narrative description of your findings. 
 
-We urge you to use data from the American National Election Studies, a large-scale public opinion survey that goes back to 1948.
+We urge you to use data from the [American National Election Studies](http://www.electionstudies.org/studypages/download/datacenter_all_NoData.php), a large-scale public opinion survey that goes back to 1948.
 
 For the mid-term, you will come up with a targeted research question, describe the variables in the data set that will help you to answer this questions, develop some hypotheses about your question, and produce some initial descriptive data analysis.
 
@@ -73,7 +75,7 @@ This class depends on your engagement. We expect all of you to be full participa
 
 Missing a class without contacting us ahead of time, or missing more than one class under any circumstance, automatically precludes you from receiving full credit for class participation.
  
-### Late Aassignment Policy
+### Late Assignment Policy
 
 We have a zero tolerance policy for late homework assignments. Assignments not turned in by e-mail at the start of each class will be marked as a zero.
 
@@ -154,7 +156,7 @@ __VISUALIZING RELATIONSHIPS__
 
 __GEOSPATIAL RELATIONSHIPS__
 
-- Readings due: Matthew Ericson, “When Maps Shouldn’t be Maps,” 2011, ericson.net
+- Readings due: Matthew Ericson, “[When Maps Shouldn’t be Maps](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/),” 2011, ericson.net
 - Assignments due: Visualization brainstorm paper (10% of final grade)
 
 ### WEEK 12: NOVEMBER 15 
